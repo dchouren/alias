@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="robots" content="noindex,nofollow" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="0.11.1 (2b48ae40ea1b)" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<link rel="icon" href="/default/img/icon.png" type="image/png" />
+<link rel="stylesheet" type="text/css" media="all"
+    title="Default" href="/default/style.css" />
+<link rel="alternate stylesheet" type="text/css" media="all"
+    title="Paper White" href="/default/print.css" />
+<link rel="stylesheet" type="text/css" href="/default/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/default/jquery.tooltip.css" />
+
+<link rel="search" href="/opensearch"
+    type="application/opensearchdescription+xml"
+    title="OpenGrok Search for current project(s)" />
+<script type="text/javascript" src="/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/jquery.tooltip-1.3.pack.js"></script>
+
+<script type="text/javascript" src="/utils.js"></script>
+<title>Cross Reference: /poi/coredata/elasticsearch/matching/src/main/resources/attractionNameSynonyms.txt</title>
+</head><body>
+<script type="text/javascript">/* <![CDATA[ */
+    document.hash = 'null';document.rev = '';document.link = '/xref/poi/coredata/elasticsearch/matching/src/main/resources/attractionNameSynonyms.txt';document.annotate = false;
+    document.domReady.push(function() {domReadyMast();});
+    document.pageReady.push(function() { pageReadyMast();});
+/* ]]> */</script>
+<div id="page">
+    <div id="whole_header">
+        <form action="/search">
+<div id="header">
+<a href="/"><span id="MastheadLogo"></span></a>
+<h2><a href="https://grok.dev.tripadvisor.com">[Current Repositories]</a>  <a href="https://xgrok.nw.dev.tripadvisor.com">[Historical MAINLINE]</a></h2>
+
+
+
+    <div id="pagetitle"><span id="filename"
+                    >Cross Reference: attractionNameSynonyms.txt</span></div>
+</div>
+<div id="Masthead">
+    <tt><a href="/xref/">xref</a>: /<a href="/xref/poi/">poi</a>/<a href="/xref/poi/coredata/">coredata</a>/<a href="/xref/poi/coredata/elasticsearch/">elasticsearch</a>/<a href="/xref/poi/coredata/elasticsearch/matching/">matching</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/">src</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/">main</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/resources/">resources</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/resources/attractionNameSynonyms.txt">attractionNameSynonyms.txt</a></tt>
+</div>
+<div id="bar">
+    <ul>
+        <li><a href="/"><span id="home"></span>Home</a></li><li><span id="history"></span><span class="c">History</span></li><li><span class="c"><span class="annotate"></span>Annotate</span></li><li><a href="#" onclick="javascript:lntoggle();return false;"
+            title="Show or hide line numbers (might be slower if file has more than 10 000 lines)."><span id="line"></span>Line#</a></li><li><a
+            href="#" onclick="javascript:lsttoggle();return false;"
+            title="Show or hide symbol list."><span id="defbox"></span>Navigate</a></li><li><a href="/raw/poi/coredata/elasticsearch/matching/src/main/resources/attractionNameSynonyms.txt"><span id="download"></span>Download</a></li><li><input type="text" id="search" name="q" class="q" />
+            <input type="submit" value="Search" class="submit" /></li><li><input type="checkbox" name="path" value="/poi/coredata/elasticsearch/matching/src/main/resources/" /> only in <b>attractionNameSynonyms.txt</b></li>
+        
+    </ul>
+</div>
+        </form>
+    </div>
+<div id="content">
+<script type="text/javascript">/* <![CDATA[ */
+document.pageReady.push(function() { pageReadyList();});
+/* ]]> */</script>
+
+<div id="src">
+    <pre><a class="l" name="1" href="#1">1</a>apartm, appartman, villa, aparts, apt, apparts, apartment, apartments, appart, apart, apartman =&gt; apartment
+<a class="l" name="2" href="#2">2</a>carribbean, carribean, caribean =&gt; caribbean
+<a class="l" name="3" href="#3">3</a>viii, 8 =&gt; eight
+<a class="l" name="4" href="#4">4</a>8th =&gt; eighth
+<a class="l" name="5" href="#5">5</a>5th =&gt; fifth
+<a class="l" name="6" href="#6">6</a>1st =&gt; first
+<a class="l" name="7" href="#7">7</a>v, 5 =&gt; five
+<a class="l" name="8" href="#8">8</a>ft =&gt; fort
+<a class="l" name="9" href="#9">9</a>4, iv =&gt; four
+<a class="hl" name="10" href="#10">10</a>4th =&gt; fourth
+<a class="l" name="11" href="#11">11</a>gormet =&gt; gourmet
+<a class="l" name="12" href="#12">12</a>intl =&gt; international
+<a class="l" name="13" href="#13">13</a>manhatten =&gt; manhattan
+<a class="l" name="14" href="#14">14</a>mariot, marriot, mariott =&gt; marriott
+<a class="l" name="15" href="#15">15</a>mountain, mt =&gt; mount
+<a class="l" name="16" href="#16">16</a>9, ix =&gt; nine
+<a class="l" name="17" href="#17">17</a>9th =&gt; ninth
+<a class="l" name="18" href="#18">18</a>1 =&gt; one
+<a class="l" name="19" href="#19">19</a>palmtree =&gt; palm tree
+<a class="hl" name="20" href="#20">20</a>raddisson, raddison, radison =&gt; radisson
+<a class="l" name="21" href="#21">21</a>restaurannts, restaraunt, restrants, restauants, restuarant, restaurantss, restaurent, resturaunt, restraurants, resterraunt, restaurats, restaurng, restuants, restaruant, restautants, restraraunt, restauraunt, restauranrs, restaurnt, restuarntsrestewraunts, resurant, restrant, restaraunts, restorant, restaurnts, restruarants, restrunts, restaruants, resturtant, restorante, restauran, resataurants, restaurat, restuaunts, resterants, restauraunts, restaunt, restarants, restraunts, restuarent, resuarant, restaurrants, restrarants, restrua, restaunts, restayrants, restraunt, estauranty, restarunts, restaurtant, restauramts, restauranr, restuarants, restauarants, restuaurant, restruarts, restourant, restraurant, restauranto, restuarnt, resterrants, restrauants, restronts, restautant, resterant, resturanta, restuaraunts, restaurnats, retaurant, resteraunts, rstaurants, resturaunts, restruants, restaurantrs, resturant, restartant, resortand, restauranted, resturnants, resturents, restuarasnts, restraunants, resteraunt, retaurants, resturantes, restuarents, restants, resturants, restauranats, resaturant, restruant, resaurant, restar, resttaurants, restrurants =&gt; restaurant
+<a class="l" name="22" href="#22">22</a>st =&gt; saint
+<a class="l" name="23" href="#23">23</a>2nd =&gt; second
+<a class="l" name="24" href="#24">24</a>7, vii =&gt; seven
+<a class="l" name="25" href="#25">25</a>7th =&gt; seventh
+<a class="l" name="26" href="#26">26</a>6, vi =&gt; six
+<a class="l" name="27" href="#27">27</a>6th =&gt; sixth
+<a class="l" name="28" href="#28">28</a>10, x =&gt; ten
+<a class="l" name="29" href="#29">29</a>10th =&gt; tenth
+<a class="hl" name="30" href="#30">30</a>3rd =&gt; third
+<a class="l" name="31" href="#31">31</a>3, iii =&gt; three
+<a class="l" name="32" href="#32">32</a>ii, 2 =&gt; two
+<a class="l" name="33" href="#33">33</a></pre>
+</div>
+    <div id="footer">
+<p><a href="http://www.opensolaris.org/os/project/opengrok/"
+ title="Served by OpenGrok"><span id="fti"></span></a></p>
+<p>Indexes created Fri Aug 26 09:51:43 EDT 2016</p>
+    
+    </div>
+    </div>
+</div>
+</body>
+</html>
+

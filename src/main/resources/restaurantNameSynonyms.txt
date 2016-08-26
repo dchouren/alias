@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="robots" content="noindex,nofollow" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="0.11.1 (2b48ae40ea1b)" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<link rel="icon" href="/default/img/icon.png" type="image/png" />
+<link rel="stylesheet" type="text/css" media="all"
+    title="Default" href="/default/style.css" />
+<link rel="alternate stylesheet" type="text/css" media="all"
+    title="Paper White" href="/default/print.css" />
+<link rel="stylesheet" type="text/css" href="/default/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/default/jquery.tooltip.css" />
+
+<link rel="search" href="/opensearch"
+    type="application/opensearchdescription+xml"
+    title="OpenGrok Search for current project(s)" />
+<script type="text/javascript" src="/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/jquery.tooltip-1.3.pack.js"></script>
+
+<script type="text/javascript" src="/utils.js"></script>
+<title>Cross Reference: /poi/coredata/elasticsearch/matching/src/main/resources/restaurantNameSynonyms.txt</title>
+</head><body>
+<script type="text/javascript">/* <![CDATA[ */
+    document.hash = 'null';document.rev = '';document.link = '/xref/poi/coredata/elasticsearch/matching/src/main/resources/restaurantNameSynonyms.txt';document.annotate = false;
+    document.domReady.push(function() {domReadyMast();});
+    document.pageReady.push(function() { pageReadyMast();});
+/* ]]> */</script>
+<div id="page">
+    <div id="whole_header">
+        <form action="/search">
+<div id="header">
+<a href="/"><span id="MastheadLogo"></span></a>
+<h2><a href="https://grok.dev.tripadvisor.com">[Current Repositories]</a>  <a href="https://xgrok.nw.dev.tripadvisor.com">[Historical MAINLINE]</a></h2>
+
+
+
+    <div id="pagetitle"><span id="filename"
+                    >Cross Reference: restaurantNameSynonyms.txt</span></div>
+</div>
+<div id="Masthead">
+    <tt><a href="/xref/">xref</a>: /<a href="/xref/poi/">poi</a>/<a href="/xref/poi/coredata/">coredata</a>/<a href="/xref/poi/coredata/elasticsearch/">elasticsearch</a>/<a href="/xref/poi/coredata/elasticsearch/matching/">matching</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/">src</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/">main</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/resources/">resources</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/resources/restaurantNameSynonyms.txt">restaurantNameSynonyms.txt</a></tt>
+</div>
+<div id="bar">
+    <ul>
+        <li><a href="/"><span id="home"></span>Home</a></li><li><span id="history"></span><span class="c">History</span></li><li><span class="c"><span class="annotate"></span>Annotate</span></li><li><a href="#" onclick="javascript:lntoggle();return false;"
+            title="Show or hide line numbers (might be slower if file has more than 10 000 lines)."><span id="line"></span>Line#</a></li><li><a
+            href="#" onclick="javascript:lsttoggle();return false;"
+            title="Show or hide symbol list."><span id="defbox"></span>Navigate</a></li><li><a href="/raw/poi/coredata/elasticsearch/matching/src/main/resources/restaurantNameSynonyms.txt"><span id="download"></span>Download</a></li><li><input type="text" id="search" name="q" class="q" />
+            <input type="submit" value="Search" class="submit" /></li><li><input type="checkbox" name="path" value="/poi/coredata/elasticsearch/matching/src/main/resources/" /> only in <b>restaurantNameSynonyms.txt</b></li>
+        
+    </ul>
+</div>
+        </form>
+    </div>
+<div id="content">
+<script type="text/javascript">/* <![CDATA[ */
+document.pageReady.push(function() { pageReadyList();});
+/* ]]> */</script>
+
+<div id="src">
+    <pre><a class="l" name="1" href="#1">1</a>99 restaurant, ninety nine restaurant =&gt; 99restaurant
+<a class="l" name="2" href="#2">2</a>a&amp;w restaurant, a &amp; w restaurant, a w restaurant, a&amp;w family restaurant, a&amp;w food service of canada, a&amp;w all american food, a&amp;w, a and w =&gt; aandwrestaurant
+<a class="l" name="3" href="#3">3</a>apartm, appartman, villa, aparts, apt, apparts, apartment, apartments, appart, apart, apartman =&gt; apartment
+<a class="l" name="4" href="#4">4</a>applebees restaurant, applebee restaurant, applebee neighborhood grill bar, applebee =&gt; applebees
+<a class="l" name="5" href="#5">5</a>auntie annes hard rolled soft, auntie annes, auntie anne's, auntie anne =&gt; auntieannes
+<a class="l" name="6" href="#6">6</a>barbq, barbeque, bbq =&gt; barbecue
+<a class="l" name="7" href="#7">7</a>bertucci's, bertucci =&gt; bertuccis
+<a class="l" name="8" href="#8">8</a>burger king =&gt; burgerking
+<a class="l" name="9" href="#9">9</a>carribbean, carribean, caribean =&gt; caribbean
+<a class="hl" name="10" href="#10">10</a>chips =&gt; chip
+<a class="l" name="11" href="#11">11</a>chipotle mexical grill, chipotle =&gt; chipotlemexican
+<a class="l" name="12" href="#12">12</a>dominos pizza, domino's pizza, dominos, domino's =&gt; dominospizza
+<a class="l" name="13" href="#13">13</a>doughnut, doughnuts, donuts =&gt; donut
+<a class="l" name="14" href="#14">14</a>dunkin donuts, dunkin donut, dunkin's, dunkins =&gt; dunkindonuts
+<a class="l" name="15" href="#15">15</a>viii, 8 =&gt; eight
+<a class="l" name="16" href="#16">16</a>8th =&gt; eighth
+<a class="l" name="17" href="#17">17</a>5th =&gt; fifth
+<a class="l" name="18" href="#18">18</a>1st =&gt; first
+<a class="l" name="19" href="#19">19</a>v, 5 =&gt; five
+<a class="hl" name="20" href="#20">20</a>five guys =&gt; fiveguys
+<a class="l" name="21" href="#21">21</a>ft =&gt; fort
+<a class="l" name="22" href="#22">22</a>4, iv =&gt; four
+<a class="l" name="23" href="#23">23</a>4th =&gt; fourth
+<a class="l" name="24" href="#24">24</a>gormet =&gt; gourmet
+<a class="l" name="25" href="#25">25</a>grille =&gt; grill
+<a class="l" name="26" href="#26">26</a>honeybaked ham company, honey baked ham company =&gt; honeybakedhamcompany
+<a class="l" name="27" href="#27">27</a>hse =&gt; house
+<a class="l" name="28" href="#28">28</a>international house of pancakes, international house pancakes =&gt; ihop
+<a class="l" name="29" href="#29">29</a>intl =&gt; international
+<a class="hl" name="30" href="#30">30</a>kentucky fried chicken, kfc =&gt; kentuckyfriedchicken
+<a class="l" name="31" href="#31">31</a>manhatten =&gt; manhattan
+<a class="l" name="32" href="#32">32</a>mariot, marriot, mariott =&gt; marriott
+<a class="l" name="33" href="#33">33</a>mcdonald's, macdonalds, mc donalds, mc donald's =&gt; mcdonalds
+<a class="l" name="34" href="#34">34</a>mountain, mt =&gt; mount
+<a class="l" name="35" href="#35">35</a>9, ix =&gt; nine
+<a class="l" name="36" href="#36">36</a>9th =&gt; ninth
+<a class="l" name="37" href="#37">37</a>1 =&gt; one
+<a class="l" name="38" href="#38">38</a>palmtree =&gt; palm tree
+<a class="l" name="39" href="#39">39</a>panda express =&gt; pandaexpress
+<a class="hl" name="40" href="#40">40</a>papa ginos, papa gino's, papa gino, papagino =&gt; papaginos
+<a class="l" name="41" href="#41">41</a>papa johns, papa john's, papa john, papajohn =&gt; papajohns
+<a class="l" name="42" href="#42">42</a>popeyes louisiana kitchen, popeye's louisiana kitchen, popeyes, popeye's, popeyes louisiana, popeyes luisiana =&gt; popeyeslouisianakitchen
+<a class="l" name="43" href="#43">43</a>qdobo mexical grill, qdobo, qdobos, qdobo's =&gt; qdobomexican
+<a class="l" name="44" href="#44">44</a>raddisson, raddison, radison =&gt; radisson
+<a class="l" name="45" href="#45">45</a>red robin =&gt; redrobin
+<a class="l" name="46" href="#46">46</a>restaurannts, restaraunt, restrants, restauants, restuarant, restaurantss, restaurent, resturaunt, restraurants, resterraunt, restaurats, restaurng, restuants, restaruant, restautants, restraraunt, restauraunt, restauranrs, restaurnt, restuarntsrestewraunts, resurant, restrant, restaraunts, restorant, restaurnts, restruarants, restrunts, restaruants, resturtant, restorante, restauran, resataurants, restaurat, restuaunts, resterants, restauraunts, restaunt, restarants, restraunts, restuarent, resuarant, restaurrants, restrarants, restrua, restaunts, restayrants, restraunt, estauranty, restarunts, restaurtant, restauramts, restauranr, restuarants, restauarants, restuaurant, restruarts, restourant, restraurant, restauranto, restuarnt, resterrants, restrauants, restronts, restautant, resterant, resturanta, restuaraunts, restaurnats, retaurant, resteraunts, rstaurants, resturaunts, restruants, restaurantrs, resturant, restartant, resortand, restauranted, resturnants, resturents, restuarasnts, restraunants, resteraunt, retaurants, resturantes, restuarents, restants, resturants, restauranats, resaturant, restruant, resaurant, restar, resttaurants, restrurants =&gt; restaurant
+<a class="l" name="47" href="#47">47</a>st =&gt; saint
+<a class="l" name="48" href="#48">48</a>2nd =&gt; second
+<a class="l" name="49" href="#49">49</a>7, vii =&gt; seven
+<a class="hl" name="50" href="#50">50</a>7th =&gt; seventh
+<a class="l" name="51" href="#51">51</a>6, vi =&gt; six
+<a class="l" name="52" href="#52">52</a>6th =&gt; sixth
+<a class="l" name="53" href="#53">53</a>sonic drive in, sonic drivein =&gt; sonicdrivein
+<a class="l" name="54" href="#54">54</a>star bucks, star buck, star bucks coffee, starbucks coffee, star bucks coffe, star bucks cofee, tarbucks cofee =&gt; starbucks
+<a class="l" name="55" href="#55">55</a>taco bell =&gt; tacobell
+<a class="l" name="56" href="#56">56</a>taco cabana =&gt; tacocabana
+<a class="l" name="57" href="#57">57</a>taco johns, taco john, taco john's =&gt; tacojonhs
+<a class="l" name="58" href="#58">58</a>taco time =&gt; tacotime
+<a class="l" name="59" href="#59">59</a>this country best yogurt, this countries best yogurt, this country's best yogurt =&gt; tcby
+<a class="hl" name="60" href="#60">60</a>10, x =&gt; ten
+<a class="l" name="61" href="#61">61</a>10th =&gt; tenth
+<a class="l" name="62" href="#62">62</a>tgi friday, tgi fridays, tgi friday's, fridays, friday's, tgi =&gt; tgifridays
+<a class="l" name="63" href="#63">63</a>3rd =&gt; third
+<a class="l" name="64" href="#64">64</a>3, iii =&gt; three
+<a class="l" name="65" href="#65">65</a>ii, 2 =&gt; two
+<a class="l" name="66" href="#66">66</a>uno chicago grill, unos =&gt; unochicago
+<a class="l" name="67" href="#67">67</a>what a burger =&gt; whataburger
+<a class="l" name="68" href="#68">68</a>wing street =&gt; wingstreet
+<a class="l" name="69" href="#69">69</a></pre>
+</div>
+    <div id="footer">
+<p><a href="http://www.opensolaris.org/os/project/opengrok/"
+ title="Served by OpenGrok"><span id="fti"></span></a></p>
+<p>Indexes created Fri Aug 26 09:51:43 EDT 2016</p>
+    
+    </div>
+    </div>
+</div>
+</body>
+</html>
+

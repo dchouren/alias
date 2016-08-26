@@ -1,0 +1,8 @@
+ap => autopista
+av, avda, ave, aveneda, avenue => avenida
+c, calla => calle
+carrer => carrera
+crta, crtra, ctra => carretera
+gran via => gran_via
+pl => plaza
+sant, santa, santo => san

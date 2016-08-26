@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="robots" content="noindex,nofollow" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="0.11.1 (2b48ae40ea1b)" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<link rel="icon" href="/default/img/icon.png" type="image/png" />
+<link rel="stylesheet" type="text/css" media="all"
+    title="Default" href="/default/style.css" />
+<link rel="alternate stylesheet" type="text/css" media="all"
+    title="Paper White" href="/default/print.css" />
+<link rel="stylesheet" type="text/css" href="/default/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/default/jquery.tooltip.css" />
+
+<link rel="search" href="/opensearch"
+    type="application/opensearchdescription+xml"
+    title="OpenGrok Search for current project(s)" />
+<script type="text/javascript" src="/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/jquery.tooltip-1.3.pack.js"></script>
+
+<script type="text/javascript" src="/utils.js"></script>
+<title>Cross Reference: /poi/coredata/elasticsearch/matching/src/main/resources/stopWords.txt</title>
+</head><body>
+<script type="text/javascript">/* <![CDATA[ */
+    document.hash = 'null';document.rev = '';document.link = '/xref/poi/coredata/elasticsearch/matching/src/main/resources/stopWords.txt';document.annotate = false;
+    document.domReady.push(function() {domReadyMast();});
+    document.pageReady.push(function() { pageReadyMast();});
+/* ]]> */</script>
+<div id="page">
+    <div id="whole_header">
+        <form action="/search">
+<div id="header">
+<a href="/"><span id="MastheadLogo"></span></a>
+<h2><a href="https://grok.dev.tripadvisor.com">[Current Repositories]</a>  <a href="https://xgrok.nw.dev.tripadvisor.com">[Historical MAINLINE]</a></h2>
+
+
+
+    <div id="pagetitle"><span id="filename"
+                    >Cross Reference: stopWords.txt</span></div>
+</div>
+<div id="Masthead">
+    <tt><a href="/xref/">xref</a>: /<a href="/xref/poi/">poi</a>/<a href="/xref/poi/coredata/">coredata</a>/<a href="/xref/poi/coredata/elasticsearch/">elasticsearch</a>/<a href="/xref/poi/coredata/elasticsearch/matching/">matching</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/">src</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/">main</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/resources/">resources</a>/<a href="/xref/poi/coredata/elasticsearch/matching/src/main/resources/stopWords.txt">stopWords.txt</a></tt>
+</div>
+<div id="bar">
+    <ul>
+        <li><a href="/"><span id="home"></span>Home</a></li><li><span id="history"></span><span class="c">History</span></li><li><span class="c"><span class="annotate"></span>Annotate</span></li><li><a href="#" onclick="javascript:lntoggle();return false;"
+            title="Show or hide line numbers (might be slower if file has more than 10 000 lines)."><span id="line"></span>Line#</a></li><li><a
+            href="#" onclick="javascript:lsttoggle();return false;"
+            title="Show or hide symbol list."><span id="defbox"></span>Navigate</a></li><li><a href="/raw/poi/coredata/elasticsearch/matching/src/main/resources/stopWords.txt"><span id="download"></span>Download</a></li><li><input type="text" id="search" name="q" class="q" />
+            <input type="submit" value="Search" class="submit" /></li><li><input type="checkbox" name="path" value="/poi/coredata/elasticsearch/matching/src/main/resources/" /> only in <b>stopWords.txt</b></li>
+        
+    </ul>
+</div>
+        </form>
+    </div>
+<div id="content">
+<script type="text/javascript">/* <![CDATA[ */
+document.pageReady.push(function() { pageReadyList();});
+/* ]]> */</script>
+
+<div id="src">
+    <pre><a class="l" name="1" href="#1">1</a>&amp;
+<a class="l" name="2" href="#2">2</a>a
+<a class="l" name="3" href="#3">3</a>an
+<a class="l" name="4" href="#4">4</a>and
+<a class="l" name="5" href="#5">5</a>as
+<a class="l" name="6" href="#6">6</a>at
+<a class="l" name="7" href="#7">7</a>be
+<a class="l" name="8" href="#8">8</a>by
+<a class="l" name="9" href="#9">9</a>for
+<a class="hl" name="10" href="#10">10</a>if
+<a class="l" name="11" href="#11">11</a>in
+<a class="l" name="12" href="#12">12</a>on
+<a class="l" name="13" href="#13">13</a>the
+<a class="l" name="14" href="#14">14</a>this
+<a class="l" name="15" href="#15">15</a>to
+<a class="l" name="16" href="#16">16</a>up
+<a class="l" name="17" href="#17">17</a>a
+<a class="l" name="18" href="#18">18</a>an
+<a class="l" name="19" href="#19">19</a>and
+<a class="hl" name="20" href="#20">20</a>are
+<a class="l" name="21" href="#21">21</a>as
+<a class="l" name="22" href="#22">22</a>at
+<a class="l" name="23" href="#23">23</a>be
+<a class="l" name="24" href="#24">24</a>but
+<a class="l" name="25" href="#25">25</a>by
+<a class="l" name="26" href="#26">26</a>for
+<a class="l" name="27" href="#27">27</a>if
+<a class="l" name="28" href="#28">28</a>in
+<a class="l" name="29" href="#29">29</a>into
+<a class="hl" name="30" href="#30">30</a>is
+<a class="l" name="31" href="#31">31</a>it
+<a class="l" name="32" href="#32">32</a>no
+<a class="l" name="33" href="#33">33</a>not
+<a class="l" name="34" href="#34">34</a>of
+<a class="l" name="35" href="#35">35</a>on
+<a class="l" name="36" href="#36">36</a>or
+<a class="l" name="37" href="#37">37</a>such
+<a class="l" name="38" href="#38">38</a>that
+<a class="l" name="39" href="#39">39</a>the
+<a class="hl" name="40" href="#40">40</a>their
+<a class="l" name="41" href="#41">41</a>then
+<a class="l" name="42" href="#42">42</a>there
+<a class="l" name="43" href="#43">43</a>these
+<a class="l" name="44" href="#44">44</a>they
+<a class="l" name="45" href="#45">45</a>this
+<a class="l" name="46" href="#46">46</a>to
+<a class="l" name="47" href="#47">47</a>was
+<a class="l" name="48" href="#48">48</a>will
+<a class="l" name="49" href="#49">49</a>with
+<a class="hl" name="50" href="#50">50</a>hotel
+<a class="l" name="51" href="#51">51</a>hostel
+<a class="l" name="52" href="#52">52</a>house
+<a class="l" name="53" href="#53">53</a>apartment
+<a class="l" name="54" href="#54">54</a>apart
+<a class="l" name="55" href="#55">55</a>villa
+<a class="l" name="56" href="#56">56</a>la
+<a class="l" name="57" href="#57">57</a>de
+<a class="l" name="58" href="#58">58</a>inn
+<a class="l" name="59" href="#59">59</a>b&amp;b
+<a class="hl" name="60" href="#60">60</a>bb
+<a class="l" name="61" href="#61">61</a>bnb
+<a class="l" name="62" href="#62">62</a>cafe
+<a class="l" name="63" href="#63">63</a>house
+<a class="l" name="64" href="#64">64</a>motel
+<a class="l" name="65" href="#65">65</a>home
+<a class="l" name="66" href="#66">66</a>cabin
+<a class="l" name="67" href="#67">67</a>beach
+<a class="l" name="68" href="#68">68</a>pizza
+<a class="l" name="69" href="#69">69</a>casa
+<a class="hl" name="70" href="#70">70</a>bar
+<a class="l" name="71" href="#71">71</a>le
+<a class="l" name="72" href="#72">72</a>bedroom
+<a class="l" name="73" href="#73">73</a>cottage
+<a class="l" name="74" href="#74">74</a>grill
+<a class="l" name="75" href="#75">75</a>resort
+<a class="l" name="76" href="#76">76</a>holiday
+<a class="l" name="77" href="#77">77</a>el
+<a class="l" name="78" href="#78">78</a>bed
+<a class="l" name="79" href="#79">79</a>breakfast
+<a class="hl" name="80" href="#80">80</a>condo
+<a class="l" name="81" href="#81">81</a>lodge
+<a class="l" name="82" href="#82">82</a>view
+<a class="l" name="83" href="#83">83</a></pre>
+</div>
+    <div id="footer">
+<p><a href="http://www.opensolaris.org/os/project/opengrok/"
+ title="Served by OpenGrok"><span id="fti"></span></a></p>
+<p>Indexes created Fri Aug 26 09:51:43 EDT 2016</p>
+    
+    </div>
+    </div>
+</div>
+</body>
+</html>
+
